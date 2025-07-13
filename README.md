@@ -1,4 +1,4 @@
-Number Guessing Game! 
+Here is another simple project for beginners! 
 
 This is a simple terminal-based number guessing game written in C. The program randomly selects a number between 1 and 100, and the user must guess it. After each guess, the program gives a hint whether the number is too high or too low.
 
